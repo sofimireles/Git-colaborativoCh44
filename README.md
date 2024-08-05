@@ -1,3 +1,5 @@
-# Git-colaborativoCh44## Branches
+# Git-colaborativoCh44
+
+## Active Branches
 -devsofia
 - devsofipersonal
